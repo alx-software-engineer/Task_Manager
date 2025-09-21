@@ -61,10 +61,10 @@ Schema-Aware Generation: My "schema" will be the shape of my task object. I will
 # My Task Schema:
 
 ```{
-  id: number,       // Unique ID (e.g., from Date.now())
-  text: string,     // The content of the task
-  completed: boolean // The status of the task
-}```
+  id: number,       
+  text: string,     
+  completed: boolean 
+}
 
 Example Prompt: "Using this Task schema, generate a Zustand toggleTask(id) action that finds a task by its ID and flips its completed status."
 
