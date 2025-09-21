@@ -5,7 +5,6 @@ TaskFlow is a minimalist, client-side task management application. It's designed
 This project matters because it demonstrates a strong command of modern frontend development principles, including component-based architecture, global state management, and local data persistence, all within a serverless application—making it an excellent portfolio piece.
 
 ![TaskFlow Screenshot](./screenshot.png)
-_To add a screenshot: take a picture of your running app and add it to your project folder with the name `screenshot.png`._
 
 ---
 
